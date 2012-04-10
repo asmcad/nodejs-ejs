@@ -1,3 +1,3 @@
-﻿publicklasrünün içine javascript klasörü ya da images kalasörleri ekleyebilirsin.
+﻿publi cklasrünün içine javascript klasörü ya da images kalasörleri ekleyebilirsin.
 
 static dosaylara ulaşmak için  -> http://localhost:8080/stylesheets/style.css
