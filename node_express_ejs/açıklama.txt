@@ -1,3 +1,10 @@
-﻿publi cklasrünün içine javascript klasörü ya da images kalasörleri ekleyebilirsin.
+publicklasrünün içine javascript klasörü ya da images kalasörleri ekleyebilirsin.
 
 static dosaylara ulaşmak için  -> http://localhost:8080/stylesheets/style.css
+
+expressjs'nin readme dosyasında otomatik bi proje nasıl yaratılır, yazıyor.
+express
+npm install ejs
+npm install express
+
+-------------------
